@@ -12,7 +12,7 @@ public class icp_q10 {
         System.out.println(ruler1);
         ruler1 = ruler1 + " 3 " + ruler1 ;
         System.out.println(ruler1);
-        ruler1 = ruler1 = " 4 " + ruler1 ;
+        ruler1 = ruler1 + " 4 " + ruler1 ;
         System.out.println(ruler1);
 
     }
