@@ -1,3 +1,8 @@
+/*
+Write a java program that prints the sum of two random integers between 1 and 6 (such as
+you might get when rolling dice)
+ */
+
 public class icp_cla_q3 {
     public static void main(String[] args) {
         int max = 6 , min = 1 , a  , b ;

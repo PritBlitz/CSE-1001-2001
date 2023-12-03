@@ -1,3 +1,8 @@
+/*
+Write a java program to take three inputs from command line argument as principle, rate and
+time. Find Simple interest.
+ */
+
 public class icp_ha_cla_q1 {
     public static void main(String[] args) {
         double p = Double.parseDouble(args[0]) ;

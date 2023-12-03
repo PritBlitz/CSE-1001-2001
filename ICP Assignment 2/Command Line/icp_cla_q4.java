@@ -1,3 +1,8 @@
+/*
+Write a java program that takes a double value t from the command line and prints the value
+of cos (5t) + sin (7t). Use Math.cos() and math.sin(
+ */
+
 public class icp_cla_q4 {
     public static void main(String[] args) {
         double t = Double.parseDouble(args[0]);

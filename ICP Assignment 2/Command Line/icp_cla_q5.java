@@ -1,3 +1,9 @@
+/*
+Write a java program that takes three int values from the command line and prints them in
+ascending order. Use Math.min() and Math.max().
+
+ */
+
  public class icp_cla_q5 {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]) ;
