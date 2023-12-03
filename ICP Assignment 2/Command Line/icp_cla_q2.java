@@ -1,3 +1,9 @@
+/*
+Write a java program that takes two positive integers from command-line arguments and
+prints the result of first number raise to the power of second number.
+
+ */
+
 public class icp_cla_q2 {
     public static void main(String[] args) {
         int n1 = Integer.parseInt(args[0]) ;

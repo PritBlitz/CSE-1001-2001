@@ -1,3 +1,8 @@
+/*
+Write a java program to input a four-digit number from command line argument and find sum
+of the first and last digit of the number.
+ */
+
 public class  icp_ha_cla_q3 {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]) ;
