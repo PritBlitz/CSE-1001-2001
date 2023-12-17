@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class icp_03_q6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in) ;
-        System.out.println("Enter number of units consumed : ") ; 
+        System.out.print("Enter number of units consumed : ") ; 
         int unit = sc.nextInt();
         double r = 0.0 ;
         if (unit <= 50) {
