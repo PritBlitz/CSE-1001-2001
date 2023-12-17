@@ -9,7 +9,7 @@ public class icp_03_q7 {
             r = unit * 3.0 ;
         }
         else if (unit > 50 && unit <= 200) {
-            r = (50 * 3.0) + (unit - 150) * 4.80 ;
+            r = (50 * 3.0) + (unit - 50) * 4.80 ;
         }
         else if (unit > 200 && unit <= 400) {
             r = (50 * 3.0) + (150 * 4.80) + (unit - 200) * 5.80;
